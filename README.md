@@ -18,7 +18,8 @@
  * CurrentConditionalDisplay implement the observer interface and displayes the cuurent wethar status 
  * StatisticsDisplay implements the observer interface and displayes the avg status of the wether
 
-- the subject file:
+
+-the subject file:
  * IWeatherDataSubject interface the implement the
      * regesterObserver function
      * removeObserver function
