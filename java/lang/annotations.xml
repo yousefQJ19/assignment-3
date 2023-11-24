@@ -1,0 +1,8 @@
+<root>
+    <item name='java.lang.StringBuilder java.lang.StringBuilder append(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.Contract'>
+            <val name="value" val="&quot;_-&gt;this&quot;"/>
+            <val name="mutates" val="&quot;this&quot;"/>
+        </annotation>
+    </item>
+</root>

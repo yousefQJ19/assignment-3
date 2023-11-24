@@ -5,9 +5,9 @@ import Observer.Observer;
 public class PrecipitationDecorator implements Decorater{
     private Observer temp;
     private StringBuilder preception;
-    public PrecipitationDecorator(Observer temp,String preception){
+    public PrecipitationDecorator(Observer temp,String perception){
         this.temp=temp;
-        this.preception.append(preception);
+        this.preception.append(perception);
     }
 
     @Override
